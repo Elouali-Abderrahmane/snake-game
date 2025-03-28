@@ -19,4 +19,5 @@ Right Arrow : Move right
 
 ### Technologies
 Python : Core programming language.
+
 Turtle Graphics : Built-in library for creating the game visuals.
