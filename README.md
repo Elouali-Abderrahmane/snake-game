@@ -10,9 +10,13 @@ A classic Snake Game implemented in Python using the Turtle Graphics library. Mo
 
 ### Controls
 Up Arrow : Move up
+
 Down Arrow : Move down
+
 Left Arrow : Move left
+
 Right Arrow : Move right
+
 ### Technologies
 Python : Core programming language.
 Turtle Graphics : Built-in library for creating the game visuals.
